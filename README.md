@@ -174,7 +174,7 @@ This comprehensive assessment offers valuable insights into **market-specific pe
 ### **This report breaks down our financial performance for each fiscal year, showing where we made and lost.**  
 
 
-![Yearly Profit and Loss Report](yearly_pnl.png)
+![Yearly Profit and Loss Report](P&L%20by%20Fiscal%20Year.png)  
 
 #### Insights:  
 - Over three years, **Net Sales surged by 204.5%**, increasing from **87.5 million to 598.9 million**.  
