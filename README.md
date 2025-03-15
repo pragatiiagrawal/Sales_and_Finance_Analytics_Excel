@@ -62,7 +62,7 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 ### 📌 **1. Top 10 Products with Sales Increase:**  
 ### **Identifying the products with the highest increase in sales from 2020 to 2021.**  
 
-![Top 10 Products Growth %](Top-10-Products-Growth-%.png)  
+![Top 10 Products Growth](Top-10-Products-Growth.png)  
 
 **Insights:**  
 - Listed the top ten products that have been doing really well from 2020 to 2021.  
