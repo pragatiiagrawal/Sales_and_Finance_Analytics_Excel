@@ -265,7 +265,7 @@ This **Financial Analysis** equips Atliq Hardware with key insights to make info
 ---
 ##  Certificate of Completion from Code Basics  
 
-![Certificate of Completion](Codebasics_ExcelCertification.png)
+![Certificate of Completion](Codebasics_ExcelCertification.pdf)
 
 ---
 ## Credit
