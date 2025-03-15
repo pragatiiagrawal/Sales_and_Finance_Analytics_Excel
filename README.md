@@ -186,7 +186,7 @@ This comprehensive assessment offers valuable insights into **market-specific pe
 ### 📌 **4. Quarterly Profit and Loss (P&L) Comparison:**  
 ### **We analyze and compare the financial performance for each quarter, revealing trends in how we're doing throughout the year.**  
 
-![Quarterly Profit and Loss Report](quarterly_pnl.png)
+![Quarterly Profit and Loss Report](P&L%20by%20Fiscal%20Months.png)  
 
 #### Insights:  
 - Our **sales consistently increased over the years**, with a significant surge in **2021**, more than **doubling compared to 2020**.  
