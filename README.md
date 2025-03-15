@@ -197,7 +197,7 @@ This comprehensive assessment offers valuable insights into **market-specific pe
 ### 📌 **5. Market-Specific Profit and Loss (P&L) Report:**  
 ### **This report breaks down the financial performance for each market we operate in.**  
 
-![Market-Specific Profit and Loss Report](market_pnl.png)
+![Market-Specific Profit and Loss Report](P&L%20by%20Market.png)  
 
 #### Insights:  
 - **Japan and New Zealand** have the **highest profit margins**, meaning we generate more revenue relative to our costs in these regions.  
