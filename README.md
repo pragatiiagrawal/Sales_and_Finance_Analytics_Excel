@@ -209,7 +209,7 @@ This comprehensive assessment offers valuable insights into **market-specific pe
 ### 📌 **6. Quarterly Gross Margin Percentage (GM%) by Location:**  
 ### **It provides a detailed view of profitability in different geographic areas.**  
 
-![Quarterly Gross Margin Percentage by Location](quarterly_gm_location.png)
+![Quarterly Gross Margin Percentage by Location](Gross%20Margin%20by%20QTR.png)  
 
 #### Insights:  
 - **Profit margins changed over time**—for example, the **ANZ region's margin decreased**, while the **North American region remained stable**.  
