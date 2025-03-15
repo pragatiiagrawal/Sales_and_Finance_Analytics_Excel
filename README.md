@@ -100,7 +100,7 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 ### 📌 **4. New Products in 2021:**  
 ### **Identifying new products introduced by Atliq in 2021.**  
 
-![New Products in 2021](New-Products-in-2021.png)  
+![New Products 2021](New%20Products%202021.png)  
 
 **Insights:**  
 - In **2021**, we added **16 new products** to our lineup.  
