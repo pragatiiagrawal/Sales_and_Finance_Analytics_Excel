@@ -161,8 +161,8 @@ These insights highlight our consistent growth in revenue, showcasing our expand
 ### 📌 **2. Market Performance vs. Sales Targets Comparison:**    
 ### **This report provides a detailed analysis of how our sales efforts align with our goals and market conditions.**  
 
-![Market Performance](market-performance.png)  
-
+![Market Performance vs Target](Market%20Performance%20vs%20Target.png)  
+ 
 **Insights:**  
 - **Markets that exceeded targets:** Australia, India, and Pakistan demonstrated **strong sales growth**, surpassing their 2021 targets.  
 - **Markets that fell short:** Austria, Poland, and South Korea did not meet their expected sales figures.  
