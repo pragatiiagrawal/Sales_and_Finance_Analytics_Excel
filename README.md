@@ -110,8 +110,8 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 ### 📌 **5: Top 5 Sales Countries in 2021:**  
 ### **Highlighting the top five countries by revenue in 2021.**  
 
-![Top 5 Sales Countries in 2021](Top-5-Sales-Countries-in-2021.png)  
-
+![Top 5 Country Sales in 2021](Top%205%20Country%20sales%20in%202021.png)  
+ 
 **Insights:**  
 - **India** led with the most sales at **$161.3 million**.  
 - The **USA**, **South Korea**, **United Kingdom**, and **Canada** also had strong sales.  
@@ -146,7 +146,9 @@ Here's a **Financial Report** specifically tailored for **Atliq Hardware**.
 ### **📌 1. Customer Net Sales Performance Report:**       
 ### **This report provides a detailed overview of revenue generated from customers.**  
 
-![Customer Net Sales Performance Report](Customer-Net-Sales-Performance-Report.png)  
+![Customer Performance Report 1](Customer%20Performance%20Report%201.png)  
+![Customer Performance Report 2](Customer%20Performance%20Report%202.png)
+
 
 **Insights:**  
 - In **2019**, we generated **$87.5 million** in revenue.  
