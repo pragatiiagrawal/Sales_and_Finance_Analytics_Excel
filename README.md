@@ -83,14 +83,14 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 ### **Determining the top 5 and bottom 5 products in terms of sales quantity.**  
 
 ### **Top 5 Products by QTY**  
-![Top 5 Products by Quantity](Top-5-Products-by-Quantity.png)  
+![Top 5 Products by QTY](Top%205%20Products%20by%20QTY.png)    
 
 **Insights:**  
 - These insights highlight our **best-performing products**, with **"AQ Master wired x1 Ms"** leading.  
 - It's crucial to continue monitoring and promoting these popular items to maintain and optimize our inventory and sales strategies.  
 
 ### **Bottom 5 Products by QTY**  
-![Bottom 5 Products by Quantity](Bottom-5-Products-by-Quantity.png)  
+![Bottom 5 Products by QTY](Bottom%205%20Products%20by%20QTY.png)   
 
 **Insights:**  
 - These insights reveal the products with **lower sales volumes**.  
