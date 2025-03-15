@@ -71,8 +71,8 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 ### 📌 **2. Division Sales Report:**  
 ### **Analyzing revenue generated in 2020 and 2021 along with the percentage sales growth.**  
 
-![Division Sales Report](Division-Sales-Report.png)  
-
+![Division Sales Report](Division%20Report.png)  
+ 
 **Insights:**  
 - **PCs** sold really well, jumping from **$40.1 million** to **$165.8 million** in 2021.  
 - **Accessories and peripherals** grew from **$105.2 million** to **$338.4 million** — a **321.5% increase**.  
