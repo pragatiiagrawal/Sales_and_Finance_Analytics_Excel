@@ -75,8 +75,8 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
  
 **Insights:**  
 - **PCs** sold really well, jumping from **$40.1 million** to **$165.8 million** in 2021.  
-- **Accessories and peripherals** grew from **$105.2 million** to **$338.4 million** — a **321.5% increase**.  
-- **Networking and storage** products increased from **$51.4 million** to **$94.7 million** — a **184.4% rise**.  
+- **Accessories and peripherals** grew from **$105.2 million** to **$338.4 million** — a **221.5% increase**.  
+- **Networking and storage** products increased from **$51.4 million** to **$94.7 million** — a **84.4% rise**.  
 
 
 ### 📌 **3. Top and Bottom 5 Sold Products:**  
