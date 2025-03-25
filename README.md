@@ -4,8 +4,8 @@
 ---
 
 ## **Table of Contents**  
-- [Introduction About Atliq](#introduction-about-atliq)  
-- [Atliq Business Models](#atliq-business-models)  
+- [Introduction About AtliQ](#introduction-about-atliq)  
+- [AtliQ Business Models](#atliq-business-models)  
 - [Problem Statement](#problem-statement)  
 - [Sales Analysis](#sales-analysis)  
 - [Financial Analysis](#financial-analysis)  
@@ -13,36 +13,36 @@
 
 ---
 
-## **Introduction About Atliq:**  
+## **Introduction About AtliQ:**  
 
-**Atliq Hardware** is a renowned company with a strong foothold in the hardware market. Their business operations stand out in the following ways:  
+**AtliQ Hardware** is a renowned company with a strong foothold in the hardware market. Their business operations stand out in the following ways:  
 
-- **Diverse Product Portfolio:** Atliq specializes in selling a wide range of hardware products, including **personal computers, mice, printers, and peripheral devices**. This diverse lineup caters to a broad spectrum of customers, meeting various technological needs.  
+- **Diverse Product Portfolio:** AtliQ specializes in selling a wide range of hardware products, including **personal computers, mice, printers, and peripheral devices**. This diverse lineup caters to a broad spectrum of customers, meeting various technological needs.  
 
-- **Integrated Manufacturing and Sales:** Beyond just selling, Atliq takes pride in **manufacturing** its own hardware products. This dual approach ensures **strict quality control** and fosters **continuous innovation**, allowing the company to stay ahead of market trends and deliver reliable solutions.  
+- **Integrated Manufacturing and Sales:** Beyond just selling, AtliQ takes pride in **manufacturing** its own hardware products. This dual approach ensures **strict quality control** and fosters **continuous innovation**, allowing the company to stay ahead of market trends and deliver reliable solutions.  
 
-- **Strategic Distribution Network:** To enhance accessibility, Atliq partners with trusted **intermediaries**:  
+- **Strategic Distribution Network:** To enhance accessibility, AtliQ partners with trusted **intermediaries**:  
   - **Retail giants** such as *Croma* and *Best Buy*  
   - **E-commerce platforms** like *Flipkart* and *Amazon*  
-  These collaborations serve as vital bridges, connecting Atliq's products with end consumers and expanding their market reach.  
+  These collaborations serve as vital bridges, connecting AtliQ's products with end consumers and expanding their market reach.  
 
 ---
 
-## **Atliq Business Models**  
+## **AtliQ Business Models**  
 
-![Atliq Business Model](Atliq%20Business%20Model.png)  
+![AtliQ Business Model](Atliq%20Business%20Model.png)  
 
 ---
 
 ## **Problem Statement**  
 
-- **Objective:** Develop an interactive **Business Intelligence** solution — a **Sales and Finance Analytics Report** — designed to uncover **actionable insights**. This report will empower **Atliq Hardware** to craft well-informed strategies, driving **data-backed decision-making** and fostering **business growth**.  
+- **Objective:** Develop an interactive **Business Intelligence** solution — a **Sales and Finance Analytics Report** — designed to uncover **actionable insights**. This report will empower **AtliQ Hardware** to craft well-informed strategies, driving **data-backed decision-making** and fostering **business growth**.  
 
 ---
 
 ## **Sales Analysis**  
 
-The primary purpose of the **Sales Analytics Report** is to provide a detailed understanding of key factors that influence smarter business decisions. This report delivers valuable insights that guide Atliq Hardware in making well-informed choices.
+The primary purpose of the **Sales Analytics Report** is to provide a detailed understanding of key factors that influence smarter business decisions. This report delivers valuable insights that guide AtliQ Hardware in making well-informed choices.
 
 ### Key Sales Reports:
 **1.Top 10 Products with Sales Increase:** Identifies the products that saw the highest increase in sales from 2020 to 2021.
@@ -51,9 +51,9 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 
 **3.Top and Bottom 5 Sold Products:** Highlights the five best-selling products and the five lowest-selling products based on quantity.
 
-**4.New Products in 2021:** Examines the new products introduced by Atliq in 2021.
+**4.New Products in 2021:** Examines the new products introduced by AtliQ in 2021.
 
-**5.Top 5 Sales Countries in 2021:** Lists the five countries that contributed the most to Atliq’s revenue in 2021.
+**5.Top 5 Sales Countries in 2021:** Lists the five countries that contributed the most to AtliQ’s revenue in 2021.
 
 ---
 
@@ -98,7 +98,7 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 
 
 ### 📌 **4. New Products in 2021:**  
-### **Identifying new products introduced by Atliq in 2021.**  
+### **Identifying new products introduced by AtliQ in 2021.**  
 
 ![New Products 2021](New%20Products%202021.png)  
 
@@ -117,7 +117,7 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 - The **USA**, **South Korea**, **United Kingdom**, and **Canada** also had strong sales.  
 
 
-This structured sales analysis provides a comprehensive view of Atliq Hardware's performance and equips us with the insights needed to strategize for future growth.
+This structured sales analysis provides a comprehensive view of AtliQ Hardware's performance and equips us with the insights needed to strategize for future growth.
 
 ---
 
@@ -125,7 +125,7 @@ This structured sales analysis provides a comprehensive view of Atliq Hardware's
 
 **Financial reports** are critical tools for thoroughly assessing **economic trends**, developing **effective financial strategies**, and establishing **strong long-term business plans**. They serve as a reliable basis for **budgeting** and enable meaningful **performance comparisons** with other companies in the industry. Furthermore, these reports aid in making the business more adaptable to the constantly changing global demands. 
 
-Here's a **Financial Report** specifically tailored for **Atliq Hardware**.
+Here's a **Financial Report** specifically tailored for **AtliQ Hardware**.
 
 **1. Customer Net Sales Performance Report**: Provides a detailed overview of how much revenue we've earned from our customers.  
 
