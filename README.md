@@ -74,9 +74,9 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 ![Division Sales Report](Division%20Report.png)  
  
 **Insights:**  
-- **PCs** sold really well, jumping from **$40.1 million** to **$165.8 million** in 2021.  
-- **Accessories and peripherals** grew from **$105.2 million** to **$338.4 million** — a **221.5% increase**.  
-- **Networking and storage** products increased from **$51.4 million** to **$94.7 million** — a **84.4% rise**.  
+- **PCs** sold really well, jumping from **$40.1M** to **$165.8M** in 2021.  
+- **Accessories and peripherals** grew from **$105.2M** to **$338.4M** — a **221.5% increase**.  
+- **Networking and storage** products increased from **$51.4M** to **$94.7M** — a **84.4% rise**.  
 
 
 ### 📌 **3. Top and Bottom 5 Sold Products:**  
@@ -113,7 +113,7 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 ![Top 5 Country Sales in 2021](Top%205%20Country%20sales%20in%202021.png)  
  
 **Insights:**  
-- **India** led with the most sales at **$161.3 million**.  
+- **India** led with the most sales at **$161.3M**.  
 - The **USA**, **South Korea**, **United Kingdom**, and **Canada** also had strong sales.  
 
 
@@ -151,9 +151,9 @@ Here's a **Financial Report** specifically tailored for **Atliq Hardware**.
 
 
 **Insights:**  
-- In **2019**, we generated **$87.5 million** in revenue.  
-- By **2020**, our revenue grew significantly to **$196.7 million**.  
-- In **2021**, we achieved an impressive surge, reaching **$598.9 million** — a **304.5% increase** compared to the previous year.  
+- In **2019**, we generated **$87.5M** in revenue.  
+- By **2020**, our revenue grew significantly to **$196.7M**.  
+- In **2021**, we achieved an impressive surge, reaching **$598.9M** — a **304.5% increase** compared to the previous year.  
 
 These insights highlight our consistent growth in revenue, showcasing our expanding customer base and the rising demand for Atliq Hardware’s products and services. This upward trend reflects our dedication to adapting and catering to the evolving needs of our rapidly growing audience.  
 
@@ -180,8 +180,8 @@ This comprehensive assessment offers valuable insights into **market-specific pe
 ![Yearly Profit and Loss Report](P&L%20by%20Fiscal%20Year.png)  
 
 #### Insights:  
-- Over three years, **Net Sales surged by 204.5%**, increasing from **87.5 million to 598.9 million**.  
-- Despite a significant rise in **Cost of Goods Sold (COGS)**, efficient cost management ensured a **strong Gross Margin of 218.2 million**.  
+- Over three years, **Net Sales surged by 204.5%**, increasing from **87.5M to 598.9M**.  
+- Despite a significant rise in **Cost of Goods Sold (COGS)**, efficient cost management ensured a **strong Gross Margin of 218.2M**.  
 - A **slight dip in Gross Margin Percentage (GM%)** indicates an opportunity for further **cost optimization**.  
 - These insights highlight our ability to **attract more customers, generate higher revenue, and maintain effective cost control**, while also identifying areas for improvement.  
 
@@ -244,7 +244,7 @@ This **Financial Analysis** equips Atliq Hardware with key insights to make info
 - **"AQ Qwerty"** stood out as a **top-performing** product.  
 
 ### ⬥ Top 5 Countries in 2021  
-- **India led sales** with **$161.3 million** in revenue.  
+- **India led sales** with **$161.3M** in revenue.  
 - Other **top-performing countries**: **USA, South Korea, United Kingdom, and Canada**.  
 
 ### ⬥ Top and Bottom 5 Products (Units Sold)  
@@ -252,7 +252,7 @@ This **Financial Analysis** equips Atliq Hardware with key insights to make info
 - **Lowest-performing products**: **"AQ Home Allin1 Gen 2"**, indicating a need for a revised sales strategy.  
 
 ### ⬥ Division Level Report  
-- The **PC division** saw **massive growth**, with sales **rising from $40.1 million (2020) to $165.8 million (2021)**.  
+- The **PC division** saw **massive growth**, with sales **rising from $40.1M (2020) to $165.8M (2021)**.  
 
 ### ⬥ Profit and Loss Reports  
 - **Thorough financial analysis** of **revenue, production costs, and profit margins** across different periods.  
@@ -272,8 +272,11 @@ This **Financial Analysis** equips Atliq Hardware with key insights to make info
 ![Certificate of Completion](Codebasics_ExcelCertification.pdf)
 
 ---
-## Credit
-**This project is inspired by Codebasics:**   
-Check it out on [Codebasics: Excel - Mother of Business Intelligence](https://codebasics.io/courses/excel-mother-of-business-intelligence)
+## Credit  
+This project is inspired by **Codebasics** and their **Excel - Mother of Business Intelligence** course.  
+
+## 🔗 Additional Resources  
+- 🎓 **Excel - Mother of Business Intelligence by Codebasics:** [Course Link](https://codebasics.io/courses/excel-mother-of-business-intelligence)  
+- 💡 **Connect with Me on LinkedIn!** [Pragati Agrawal](https://www.linkedin.com/in/agrawalpragatii/)  
 
 
