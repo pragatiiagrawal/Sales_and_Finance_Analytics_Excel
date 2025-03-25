@@ -163,9 +163,12 @@ These insights highlight our consistent growth in revenue, showcasing our expand
 
 ![Market Performance vs Target](Market%20Performance%20vs%20Target.png)  
  
-**Insights:**  
-- **Markets that exceeded targets:** Australia, India, and Pakistan demonstrated **strong sales growth**, surpassing their 2021 targets.  
-- **Markets that fell short:** Austria, Poland, and South Korea did not meet their expected sales figures.  
+**Insights:**    
+- **Top Performing Country:** India and USA had the highest sales in 2021 at **$161.3M** and **$87.8M** respectively, but still missed their target.  
+- **Major Decline in Sales:** Canada and Poland saw significant shortfalls, missing the target by **-12.6%** and **-15.3%** respectively.  
+- **Closest to Target:** Japan and Portugal performed best, missing targets by the smallest margins.  
+- **Overall Market Performance:** The total sales for 2021 fell short of the target by **$54.94M**, reflecting an **-8.4% gap**.  
+
 
 This comprehensive assessment offers valuable insights into **market-specific performance**, helping us identify areas for improvement and refine our future sales strategies.  
 
