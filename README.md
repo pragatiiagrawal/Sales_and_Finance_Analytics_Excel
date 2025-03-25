@@ -220,7 +220,7 @@ This comprehensive assessment offers valuable insights into **market-specific pe
 - **Overall, despite minor fluctuations, gross margins by subzone remained fairly steady** over the last three fiscal years.  
 
 
-This **Financial Analysis** equips Atliq Hardware with key insights to make informed financial decisions, foster strategic growth, and maintain a competitive edge in the market.  
+This **Financial Analysis** equips AtliQ Hardware with key insights to make informed financial decisions, foster strategic growth, and maintain a competitive edge in the market.  
 
 
 ---
