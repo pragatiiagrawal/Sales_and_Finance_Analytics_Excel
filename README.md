@@ -65,7 +65,7 @@ The primary purpose of the **Sales Analytics Report** is to provide a detailed u
 ![Top 10 Products Growth](Top%2010%20Products%20Growth.png)  
 **Insights:**  
 - Listed the top ten products that have been doing really well from 2020 to 2021.  
-- **"AQ Electron 4 3600 Desktop processor"** has been the best-selling product in both 2020 and 2021.  
+- **"AQ Electron 4 3600 Desktop Processor"** has been the best-selling product in both 2020 and 2021.  
 
 
 ### 📌 **2. Division Sales Report:**  
@@ -143,7 +143,7 @@ Here's a **Financial Report** specifically tailored for **Atliq Hardware**.
 
 ## Financial Analysis Reports
 
-### **📌 1. Customer Net Sales Performance Report:**       
+### 📌 **1. Customer Net Sales Performance Report:**       
 ### **This report provides a detailed overview of revenue generated from customers.**  
 
 ![Customer Performance Report 1](Customer%20Performance%20Report%201.png)  
@@ -237,9 +237,8 @@ This **Financial Analysis** equips Atliq Hardware with key insights to make info
 
 ### ⬥ Market Performance vs. Target  
 - **Compared sales performance** against **targets** and **market conditions** to identify gaps and strengths.  
+    
 ###  New Products in 2021  
-
-### ⬥ New Products in 2021  
 - We **introduced 16 new products** in **2021**, and they performed **exceptionally well**.  
 - **"AQ Qwerty"** stood out as a **top-performing** product.  
 
